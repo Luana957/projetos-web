@@ -18,7 +18,7 @@ Neste projeto, foquei nos seguintes conceitos de programação:
 * **CSS3:** Design moderno, utilizando Flexbox para o alinhamento dos componentes.
 * **JavaScript:** Toda a parte lógica e o processamento das operações.
 
-* [Clique aqui para testar a Calculadora de IMC](https://Luana957.github.io/projetos-web/projeto2-IMC/)
 
+  [Clique aqui para testar a Calculadora de IMC](https://Luana957.github.io/projetos-web/projeto2-IMC/)
 ---
 *Projeto integrante do meu portfólio de Desenvolvimento Web.*
