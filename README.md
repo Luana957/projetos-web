@@ -12,7 +12,13 @@ Este repositório centraliza meus estudos e aplicações práticas voltadas para
 ### 2. Calculadora Básica
 * **Descrição:** Ferramenta para operações aritméticas fundamentais.
 * **Conceitos:** Funções, escopo de variáveis e interface responsiva.
-* **Tecnologias:** JavaScript e CSS.
+* **Tecnologias:** HTML5, CSS3 JavaScript.
+
+### 3. To-Do List (Lista de tarefas):
+**Descrição:** Gerenciador de tarefas dinãmico para organização de rotinas.
+**Conceitos:** Manipulação de DOM (criação e remoção de elementos),
+Arrays e EventLister.
+**Tecnologias:** HTML5 CSS3 e Javascrpt
 
 ---
 📫 **Contato para monitoria ou instrução:** luanaestefany38@gmail.com
