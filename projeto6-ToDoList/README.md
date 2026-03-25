@@ -10,3 +10,5 @@ Ensinar como o navegador pode "criar" novos elementos na página em tempo real (
 2. **appendChild**: Inserção de novos itens dentro de uma lista existente.
 3. **Remoção de Elementos**: Lógica para deletar uma tarefa específica ao clicar no botão.
 4. **Validação Simples**: Verificação para não adicionar tarefas vazias.
+
+[Clique aqui para testar a Calculadora de IMC](https://Luana957.github.io/projetos-web/projeto2-IMC/)
