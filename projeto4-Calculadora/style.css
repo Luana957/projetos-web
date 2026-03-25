@@ -1,0 +1,61 @@
+/* Configuração Geral */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7f6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Estilo do Título */
+#title {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+/* Estilo dos Rótulos e Inputs */
+label {
+    font-weight: bold;
+    margin-top: 10px;
+    color: #34495e;
+}
+
+input {
+    padding: 10px;
+    margin: 5px 0 15px 0;
+    border: 1px solid #bdc3c7;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+}
+
+/* Estilo do Botão */
+#calculando {
+    background-color: #27ae60;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s;
+}
+
+#calculando:hover {
+    background-color: #219150;
+}
+
+/* Estilo do Resultado */
+p {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #2c3e50;
+}
+
+#resultado {
+    font-weight: bold;
+    color: #e67e22;
+}
