@@ -14,3 +14,4 @@ Para a construção deste projeto, apliquei os seguintes conceitos técnicos:
 4. **Feedback Visual:** Alteração dinâmica do HTML para exibir o resultado final para o usuário sem a necessidade de recarregar a página.
 
 ## 🛠
+[Clique aqui para testar a Calculadora de IMC](https://Luana957.github.io/projetos-web/projeto2-IMC/)
